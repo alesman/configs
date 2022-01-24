@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/alex/bevspot/data-layer/data-layer/src/main/resources/postgres/redshift'
+let g:netrw_dirhist_2='/home/alex/bevspot/bevcloud/scripts/etl_job'
+let g:netrw_dirhist_1='/home/alex/bevspot/bevcloud/templates/platform/resources'
+let g:netrw_dirhist_0='/home/alex/bevspot/bevcloud/templates/platform'
+let g:netrw_dirhist_9='/home/alex/bevspot/bevcloud/templates'
+let g:netrw_dirhist_8='/home/alex/bevspot/bevcloud'
+let g:netrw_dirhist_7='/home/alex/bevspot/bevcloud/venv'
+let g:netrw_dirhist_6='/home/alex/bevspot/bevcloud'
+let g:netrw_dirhist_5='/home/alex/bevspot/bevcloud/src'
+let g:netrw_dirhist_4='/home/alex/bevspot/bevcloud'
